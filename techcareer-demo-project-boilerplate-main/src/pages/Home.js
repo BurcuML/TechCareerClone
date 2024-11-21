@@ -6,7 +6,7 @@ function Home() {
 	return (
 		<>
 			<Header />
-			{/* Burada uygulamaya eklenecek olan componentler Header ve Footer gibi tek tek çağırılacaktır. */}
+			<Blog />
 			<Footer />
 		</>
 	)
